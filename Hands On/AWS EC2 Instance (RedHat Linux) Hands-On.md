@@ -121,16 +121,16 @@ http://<EC2 public-ip address>
 
 ![Screenshot 2025-02-13 144914](https://github.com/user-attachments/assets/0a598523-974a-4a43-9409-0aa61b2aebe5)
 
-# ✅ Successfully Launched EC2 Instance
-# ✅ Successfully Connected to EC2 via SSH
-# ✅ Hosted a Web Page on EC2 (Accessible via Public IP)
+#### ✅ Successfully Launched EC2 Instance
+#### ✅ Successfully Connected to EC2 via SSH
+#### ✅ Hosted a Web Page on EC2 (Accessible via Public IP)
 
-# 🔥 Hands-on Tasks (To Complete)
-# ✅ Launch a RedHat EC2 instance
-# ✅ Connect via SSH
-# ✅ Install & start Apache Web Server 
-# ✅ Configure Security Groups for HTTP traffic 
-# ✅ Automate setup with User Data script 
+#### 🔥 Hands-on Tasks (To Complete)
+#### ✅ Launch a RedHat EC2 instance
+#### ✅ Connect via SSH
+#### ✅ Install & start Apache Web Server 
+#### ✅ Configure Security Groups for HTTP traffic 
+#### ✅ Automate setup with User Data script 
 
 
 🚀 **EC2 Setup Completed Successfully!** 🎉
